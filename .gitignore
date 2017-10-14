@@ -1,0 +1,6 @@
+﻿.vscode/
+__pycache__
+.rest
+.vs/
+*.pyproj
+.idea/

@@ -1,0 +1,13 @@
+############################################
+#          DO NOT TOUCH THIS FILE          #
+############################################
+
+version: 0.2
+
+phases:
+  build:
+    commands:
+      - docker build -t gcr.io/lhgames-2017/ash-ex .
+  post_build:
+    commands:
+      - docker push gcr.io/lhgames-2017/ash-ex
