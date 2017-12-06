@@ -1,7 +1,7 @@
 # dasBoten
 
 dasBoten is an unpolished BehaviorTree driven bot made to navigate a gameserver provided for and by the 2017 LHGames @ Polytechnique Montréal.
-It can search for loot, go collect it and bring it back home autonomously.
+It can search for loot, collect it and bring it back home autonomously.
 
 
 ## The cogs
